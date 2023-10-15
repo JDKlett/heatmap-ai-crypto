@@ -1,0 +1,7 @@
+data
+processing/__pycache__
+live/__pycache__
+backup
+processing/executions/
+processing/last_execution/
+processing/models/
